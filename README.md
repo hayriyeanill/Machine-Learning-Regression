@@ -1,4 +1,6 @@
-# Data Science with Python Machine Learning Regression Project
+# Data Science with Python Class
+# Machine Learning Regression Project
+
 The purpose of this project to look into different features of individual such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium.
 
 The insurance.csv dataset contains 1338 observations (rows) and 7 features (columns). The dataset contains 4 numerical features (age, bmi, children and charges) and 3 nominal features (sex, smoker and region) that were converted into factors with numerical value designated for each level.
